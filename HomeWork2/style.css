@@ -1,0 +1,51 @@
+.page{
+    margin-left: 50%;
+}
+
+
+
+
+.name{
+
+    border: 2px solid blueviolet;
+    border-radius: 20px;
+    width: 150px;
+    height: 20px;
+    background-color: blueviolet;
+    text-align: center;
+    padding-bottom: 12px;
+    font-family: 'Raleway', sans-serif;
+    
+}  
+
+.myself{
+    border: 2px solid blueviolet;
+    border-radius: 20px;
+    background-color: blueviolet;
+    width: 450px;
+    height: auto;
+    text-align: center;
+    margin-left: 30%;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+.hobby{
+    border: 2px solid yellow;
+    border-radius: 20px;
+    width: 420px;
+    height: auto;
+    background-color: yellow;
+    text-align: center;
+    margin-left: 65%;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+.inst{
+    width: 180px;
+    height: 100px;
+}
+
+.face{
+    width: 180px;
+    height: 100px;
+}
